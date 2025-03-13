@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Oliver Atondo on 08/03/25.
+  
+*/
+
+/* MENU */
+"menu.option.videogames" = "ビデオゲーム";
+"menu.option.weapons" = "武器";
+"menu.option.characters" = "キャラクター";
+"menu.option.merchandise" = "商品";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "ブームショット・グレネードランチャー";
+"weapon.description.boomshot" = "主にローカスト、特にブーマーによって設計・使用された、単発ポンプ式のグレネードランチャーでした。";
+"weapon.name.hammerburstii" = "ハンマーバーストII";
+"weapon.description.hammerburstii" = "高出力のローカスト標準アサルトライフルでした。COGランサーのアサルトライフルに対するローカスト版としばしば呼ばれます。";
+"weapon.name.mulcher" = "マルチャー";
+"weapon.description.mulcher" = "マルチャーは、Ordered Governments連合によって開発された、手回し式回転ガトリングライフルです。";
+"weapon.name.bolo_grenade" = "ボロ・グレネード";
+"weapon.description.bolo_grenade" = "ボロ・グレネード（別名、破片手榴弾）は、Ordered Governments連合およびローカストの大群とスウォームが使用した標準的な破片手榴弾でした。";
+"weapon.name.boltok" = "ボルトク・ピストル";
+"weapon.description.boltok" = "ローカスト、特にドローンの標準武器でした。このピストルは、ローカストの武器設計哲学である、力強さを重視した武器作りを継承しています。";
+"weapon.name.lancer" = "ランサーマーク1 アサルトライフル";
+"weapon.description.lancer" = "レイベント・パンデミック時にレトロ・ランサーと呼ばれ、ランサーマーク2 アサルトライフルの前身となりました。以前はOrdered Governments連合軍の主力アサルトライフルとして使用され、ペンデュラム戦争で活躍しました。";
+"weapon.name.lancer2" = "ランサーマーク2 アサルトライフル";
+"weapon.description.lancer2" = "ランサーマーク1のアップグレード版で、チェーンソーバヨネット、より高い精度、低い反動、弾薬の搭載量増加が特徴ですが、前作に比べ火力は劣ります。";
+"weapon.name.sniper" = "ロングショット・スナイパーライフル";
+"weapon.description.sniper" = "大口径の単発式スナイパーライフルでした。Ordered Governments連合によってペンデュラム戦争中に開発され、ロングショットは出現の日の17年後にも使用されました。";
+"weapon.name.hammer_of_dawn" = "夜明けのハンマー";
+"weapon.description.hammer_of_dawn" = "夜明けのハンマーは、COGイミュルションを動力源とする、衛星ベースの軌道レーザーでした。その主要な部品は、UIRの科学者モーリス・イヴォによって発明され、教授アダム・フェニックスによって、オペレーション：レベラー中に盗まれた後に完成されました。";
+"weapon.name.mx8" = "MX8 スナブ・ピストル";
+"weapon.description.mx8" = "Ordered Governments連合軍の兵士の標準サイドアームでした。";
+
+
+
+"character.1.name" = "マーカス・フェニックス";
+"character.1.game" = "Gears of War (1, 2, 3)";
+"character.1.description" = "デルタ隊のリーダーで、CGOの英雄。";
+
+"character.2.name" = "ドミニク・サンティアゴ";
+"character.2.game" = "Gears of War (1, 2, 3)";
+"character.2.description" = "マーカスの親友。失踪した妻を捜索中。";
+
+"character.3.name" = "デイモン・ベアード";
+"character.3.game" = "Gears of War 3, Judgment";
+"character.3.description" = "皮肉屋のエンジニアで、技術のスペシャリスト。";
+
+"character.4.name" = "オーガスタス・コール";
+"character.4.game" = "Gears of War 3, Judgment";
+"character.4.description" = "元スラッシュボール選手で、凄腕の戦士。";
+
+"character.5.name" = "アニャ・ストラウド";
+"character.5.game" = "Gears of War 3";
+"character.5.description" = "CGOの将校から戦闘員へと転身した人物。";
+
+"character.6.name" = "ケイト・ディアス";
+"character.6.game" = "Gears of War 4, 5";
+"character.6.description" = "Gears 5の主人公。ロカストとの謎の関係を持つ。";
+
+"character.7.name" = "JD・フェニックス";
+"character.7.game" = "Gears of War 4, 5";
+"character.7.description" = "マーカスとアニャの息子で、自身の道を模索する兵士。";
+
+"character.8.name" = "デルモント・ウォーカー";
+"character.8.game" = "Gears of War 4, 5";
+"character.8.description" = "JDの親友で、ITのエキスパート。";
+
+"character.9.name" = "ガロン・パドゥック";
+"character.9.game" = "Gears of War: Judgment";
+"character.9.description" = "UIRの兵士で、CGOに加わる。";
+
+"character.10.name" = "ソフィア・ヘンドリック";
+"character.10.game" = "Gears of War: Judgment";
+"character.10.description" = "CGOの訓練生で、強い正義感を持つ。";
+
+"characters.playable" = "プレイアブルキャラクター";

@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Oliver Atondo on 08/03/25.
+  
+*/
+
+/* MENU */
+"menu.option.videogames" = "Videogames";
+"menu.option.weapons" = "Armas";
+"menu.option.characters" = "Personagens";
+"menu.option.merchandise" = "Mercadorias";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "Lançador de Granadas Boomshot";
+"weapon.description.boomshot" = "Era um lançador de granadas pump-action de tiro único, projetado e utilizado principalmente pelos Locust, em particular pelo Boomer.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "Era o rifle de assalto padrão dos Locust de alta potência. Frequentemente referido como a contraparte Locust do rifle de assalto COG Lancer.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "O Mulcher é um pesado fuzil Gatling rotativo manual desenvolvido pela Coalition of Ordered Governments.";
+"weapon.name.bolo_grenade" = "Bologranada";
+"weapon.description.bolo_grenade" = "A Bolo Grenade, também conhecida como Granada de Fragmentação, era a granada de fragmentação padrão utilizada pela Coalition of Ordered Governments, pela Horda Locust e pelo Enxame.";
+"weapon.name.boltok" = "Pistola Boltok";
+"weapon.description.boltok" = "Era a arma padrão dos Locust, em particular dos Drones. A pistola mantém a filosofia de design das armas dos Locust, enfatizando a força bruta.";
+"weapon.name.lancer" = "Fuzil de Assalto Lancer Mark 1";
+"weapon.description.lancer" = "Apelidado de Retro Lancer durante a Lambent Pandemic, foi o predecessor do fuzil de assalto Lancer Mark 2. Anteriormente, o fuzil de assalto principal do exército da Coalition of Ordered Governments foi utilizado durante a Guerra do Pêndulo.";
+"weapon.name.lancer2" = "Fuzil de Assalto Lancer Mark 2";
+"weapon.description.lancer2" = "Uma atualização do fuzil de assalto Lancer Mark 1, produzido com uma baioneta de motosserra, maior precisão, recuo reduzido e maior capacidade de munição, mas com menor poder de fogo em comparação com seu predecessor.";
+"weapon.name.sniper" = "Fuzil de Sniper de Longo Alcance";
+"weapon.description.sniper" = "Era um fuzil de sniper de tiro único de grande calibre. Criado pela Coalition of Ordered Governments durante as Guerras do Pêndulo, o Longshot foi usado até dezessete anos após o Dia da Emersão.";
+"weapon.name.hammer_of_dawn" = "O Martelo da Aurora";
+"weapon.description.hammer_of_dawn" = "O Martelo da Aurora era um laser orbital, baseado em satélite, alimentado por COG Imulsion. Seus componentes-chave foram inventados pelo cientista da UIR Mauris Ivo e concluídos pelo professor Adam Fenix após terem sido roubados durante a Operação: Nivelador.";
+"weapon.name.mx8" = "Pistola Snub MX8";
+"weapon.description.mx8" = "Era a arma secundária padrão para o pessoal das forças armadas da Coalition of Ordered Governments.";
+
+
+
+
+"character.1.name" = "Marcus Fenix";
+"character.1.game" = "Gears of War (1, 2, 3)";
+"character.1.description" = "Líder do Esquadrão Delta e herói da CGO.";
+
+"character.2.name" = "Dominic Santiago";
+"character.2.game" = "Gears of War (1, 2, 3)";
+"character.2.description" = "Melhor amigo de Marcus, procurando sua esposa desaparecida.";
+
+"character.3.name" = "Damon Baird";
+"character.3.game" = "Gears of War 3, Judgment";
+"character.3.description" = "Engenheiro sarcástico e especialista em tecnologia.";
+
+"character.4.name" = "Augustus Cole";
+"character.4.game" = "Gears of War 3, Judgment";
+"character.4.description" = "Ex-jogador de thrashball e guerreiro letal.";
+
+"character.5.name" = "Anya Stroud";
+"character.5.game" = "Gears of War 3";
+"character.5.description" = "Oficial da CGO que se torna combatente.";
+
+"character.6.name" = "Kait Diaz";
+"character.6.game" = "Gears of War 4, 5";
+"character.6.description" = "Protagonista de Gears 5, com um misterioso vínculo com os Locust.";
+
+"character.7.name" = "JD Fenix";
+"character.7.game" = "Gears of War 4, 5";
+"character.7.description" = "Filho de Marcus e Anya, um soldado em busca do seu próprio caminho.";
+
+"character.8.name" = "Delmont Walker";
+"character.8.game" = "Gears of War 4, 5";
+"character.8.description" = "Melhor amigo de JD, especialista em informática.";
+
+"character.9.name" = "Garron Paduk";
+"character.9.game" = "Gears of War: Judgment";
+"character.9.description" = "Soldado da UIR que se une à CGO.";
+
+"character.10.name" = "Sofia Hendrick";
+"character.10.game" = "Gears of War: Judgment";
+"character.10.description" = "Cadete da CGO com um forte senso de justiça.";
+
+"characters.playable" = "Personagens Jogáveis";

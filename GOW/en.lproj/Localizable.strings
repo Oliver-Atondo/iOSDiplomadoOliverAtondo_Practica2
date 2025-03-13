@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Oliver Atondo on 08/03/25.
+  
+*/
+
+/* MENU */
+"menu.option.videogames" = "Video Games";
+"menu.option.weapons" = "Weapons";
+"menu.option.characters" = "Characters";
+"menu.option.merchandise" = "Merchandise";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "Boomshot Grenade Launcher";
+"weapon.description.boomshot" = "It was a single-shot pump-action grenade launcher designed and used mainly by the Locust, particularly by the Boomer.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "It was the high-powered standard Locust assault rifle. It is often referred to as the Locust counterpart to the COG Lancer assault rifle.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "The Mulcher is a heavy, manually-rotated Gatling rifle developed by the Coalition of Ordered Governments.";
+"weapon.name.bolo_grenade" = "Bolo Grenade";
+"weapon.description.bolo_grenade" = "The Bolo Grenade, also known as the Fragmentation Grenade, was the standard fragmentation grenade used by the Coalition of Ordered Governments, the Locust Horde, and the Swarm.";
+"weapon.name.boltok" = "Boltok Pistol";
+"weapon.description.boltok" = "It was the standard weapon of the Locust, particularly for Drones. The pistol continues the Locusts' design philosophy of emphasizing brute strength.";
+"weapon.name.lancer" = "Lancer Mark 1 Assault Rifle";
+"weapon.description.lancer" = "Nicknamed Retro Lancer during the Lambent Pandemic, it was the predecessor of the Lancer Mark 2 assault rifle. Previously the main assault rifle of the Coalition of Ordered Governments' army, the Mark 1 assault rifle was used during the Pendulum War.";
+"weapon.name.lancer2" = "Lancer Mark 2 Assault Rifle";
+"weapon.description.lancer2" = "An upgrade to the Lancer Mark 1 assault rifle, produced with a chainsaw bayonet, improved accuracy, reduced recoil, and greater ammunition capacity, but lower firepower compared to its predecessor.";
+"weapon.name.sniper" = "Longshot Sniper Rifle";
+"weapon.description.sniper" = "It was a large-caliber, single-shot sniper rifle. Created by the Coalition of Ordered Governments during the Pendulum Wars, the Longshot was used even seventeen years after the Day of Emergence.";
+"weapon.name.hammer_of_dawn" = "Hammer of Dawn";
+"weapon.description.hammer_of_dawn" = "The Hammer of Dawn was an orbital laser, satellite-based, powered by COG Imulsion. Its key components were invented by UIR scientist Mauris Ivo and completed by Professor Adam Fenix after being stolen during Operation: Leveler.";
+"weapon.name.mx8" = "MX8 Snub Pistol";
+"weapon.description.mx8" = "It was the standard sidearm for the personnel of the Coalition of Ordered Governments' armed forces.";
+
+
+
+
+
+"character.1.name" = "Marcus Fenix";
+"character.1.game" = "Gears of War (1, 2, 3)";
+"character.1.description" = "Leader of Delta Squad and hero of the CGO.";
+
+"character.2.name" = "Dominic Santiago";
+"character.2.game" = "Gears of War (1, 2, 3)";
+"character.2.description" = "Marcus' best friend, searching for his missing wife.";
+
+"character.3.name" = "Damon Baird";
+"character.3.game" = "Gears of War 3, Judgment";
+"character.3.description" = "A sarcastic engineer and tech expert.";
+
+"character.4.name" = "Augustus Cole";
+"character.4.game" = "Gears of War 3, Judgment";
+"character.4.description" = "Former thrashball player and lethal warrior.";
+
+"character.5.name" = "Anya Stroud";
+"character.5.game" = "Gears of War 3";
+"character.5.description" = "CGO officer turned combatant.";
+
+"character.6.name" = "Kait Diaz";
+"character.6.game" = "Gears of War 4, 5";
+"character.6.description" = "Protagonist of Gears 5 with a mysterious connection to the Locust.";
+
+"character.7.name" = "JD Fenix";
+"character.7.game" = "Gears of War 4, 5";
+"character.7.description" = "Son of Marcus and Anya, a soldier forging his own path.";
+
+"character.8.name" = "Delmont Walker";
+"character.8.game" = "Gears of War 4, 5";
+"character.8.description" = "JD's best friend and an IT expert.";
+
+"character.9.name" = "Garron Paduk";
+"character.9.game" = "Gears of War: Judgment";
+"character.9.description" = "A UIR soldier who joins the CGO.";
+
+"character.10.name" = "Sofia Hendrick";
+"character.10.game" = "Gears of War: Judgment";
+"character.10.description" = "A CGO cadet with a strong sense of justice.";
+
+"characters.playable" = "Playable Characters";
